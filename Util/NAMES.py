@@ -1,0 +1,15 @@
+# -*- coding:utf-8 -*-
+P_MT = 'MT'
+P_ASH = '灰份'
+P_VOLATILE = '挥发份'
+P_SUKFUR = '硫份'
+P_G = 'G'
+P_X = 'X'
+P_Y = 'Y'
+F_ASH = '灰份'
+F_SUKFUR = '硫份'
+F_M25 = 'M25'
+F_M10 = 'M10'
+F_CRI = 'CRI'
+F_CSR = 'CSR'
+
